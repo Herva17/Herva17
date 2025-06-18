@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Hervé IRAGI
 
-<!--
-**Herva17/Herva17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** focused on building modern, efficient, and user-friendly web applications.  
+I specialize in **Vue.js** for frontend and **PHP (Laravel)** for backend development.
 
-Here are some ideas to get you started:
+💡 I'm passionate about clean code, continuous learning, and solving real-world problems through tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills**
+- Frontend: Vue.js, Quasar, HTML, CSS, JavaScript
+- Backend: PHP, Laravel, MySQL
+- Tools: Git, GitHub, Vercel, Trello
+
+🌍 Based in Goma, DR Congo  
+📬 Contact: herveiragi80@gmail.com
+
